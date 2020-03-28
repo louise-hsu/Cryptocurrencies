@@ -33,3 +33,6 @@ We will be using unsupervised learning,clustering algorithm, to group the crypto
 3. Predict clusters using cryptocurrencies data using the K-means algorithm form sklearn.
 4. Create some plots and data tables to present your results.
 
+## Summary
+
+Please view the Module18_Challenge.ipynb to see the visualizations
